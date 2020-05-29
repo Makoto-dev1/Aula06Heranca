@@ -1,0 +1,13 @@
+I:\Users\Makoto-dev\Desktop\HerancaPoo\bin\Debug\netcoreapp3.1\HerancaPoo.exe
+I:\Users\Makoto-dev\Desktop\HerancaPoo\bin\Debug\netcoreapp3.1\HerancaPoo.deps.json
+I:\Users\Makoto-dev\Desktop\HerancaPoo\bin\Debug\netcoreapp3.1\HerancaPoo.runtimeconfig.json
+I:\Users\Makoto-dev\Desktop\HerancaPoo\bin\Debug\netcoreapp3.1\HerancaPoo.runtimeconfig.dev.json
+I:\Users\Makoto-dev\Desktop\HerancaPoo\bin\Debug\netcoreapp3.1\HerancaPoo.dll
+I:\Users\Makoto-dev\Desktop\HerancaPoo\bin\Debug\netcoreapp3.1\HerancaPoo.pdb
+I:\Users\Makoto-dev\Desktop\HerancaPoo\obj\Debug\netcoreapp3.1\HerancaPoo.csprojAssemblyReference.cache
+I:\Users\Makoto-dev\Desktop\HerancaPoo\obj\Debug\netcoreapp3.1\HerancaPoo.AssemblyInfoInputs.cache
+I:\Users\Makoto-dev\Desktop\HerancaPoo\obj\Debug\netcoreapp3.1\HerancaPoo.AssemblyInfo.cs
+I:\Users\Makoto-dev\Desktop\HerancaPoo\obj\Debug\netcoreapp3.1\HerancaPoo.csproj.CoreCompileInputs.cache
+I:\Users\Makoto-dev\Desktop\HerancaPoo\obj\Debug\netcoreapp3.1\HerancaPoo.dll
+I:\Users\Makoto-dev\Desktop\HerancaPoo\obj\Debug\netcoreapp3.1\HerancaPoo.pdb
+I:\Users\Makoto-dev\Desktop\HerancaPoo\obj\Debug\netcoreapp3.1\HerancaPoo.genruntimeconfig.cache
